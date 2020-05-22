@@ -1,4 +1,4 @@
-#This file is a test for strings
+#This is an example for strings
 
 sentence = 'enter you name here:'
 print(sentence)
