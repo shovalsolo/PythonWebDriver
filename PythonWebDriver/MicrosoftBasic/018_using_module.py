@@ -1,4 +1,5 @@
 # This is a script that is importing a method from a different file and showing the way to import it
+# This file is using  helpers_18 module
 
 import helpers_018                              #Importing everything under the module
 from helpers_018 import *                       #Importing everything under the module
