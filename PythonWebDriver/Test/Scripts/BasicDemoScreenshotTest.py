@@ -3,7 +3,7 @@
 from selenium import webdriver
 from time import sleep
 
-driver = webdriver.Chrome("C:\Programming\Selenium\Python Selenium\PythonWebDriver\PythonWebDriver\WebDrivers\Chrome\chromedriver.exe")
+driver = webdriver.Chrome("C:/Users/Solomon/git/PythonWebDriver/PythonWebDriver/WebDrivers/Chrome/chromedriver.exe")
 #webdriver.FirefoxBinary("C:\Programming\Selenium\Python Selenium\PythonWebDriver\PythonWebDriver\WebDrivers\FireFox\geckodriver.exe")
 #webdriver.InternetExplorer("C:\Programming\Selenium\Python Selenium\PythonWebDriver\PythonWebDriver\WebDrivers\InternetExplorer\IEDriverServer.exe")
 
