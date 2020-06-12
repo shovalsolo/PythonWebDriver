@@ -1,4 +1,4 @@
-# These module contains shared fixtures
+# These module contains shared fixtures and the information to the webddriver
 
 import pytest
 import selenium.webdriver
